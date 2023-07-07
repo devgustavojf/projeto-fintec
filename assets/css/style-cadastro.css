@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap');
+*{
+    font-family: 'poppins' , sans-serif;
+}
+
+body{
+    background-image: url("/assets/images/pexels-joão-jesus-925743.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 80%;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    margin-top: 8%;
+    display: flex;
+}
+
+.container-formulario {
+    width: 100%;
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
